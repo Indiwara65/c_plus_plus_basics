@@ -11,7 +11,5 @@ int main(){
     std::cin>>y;
     z = sqrt(pow(x,2)+pow(y,2));
     std::cout<<"Length of hypotenuse :"<<z;
-
-
     return 0;
 }
